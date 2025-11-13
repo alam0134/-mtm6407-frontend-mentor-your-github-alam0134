@@ -332,7 +332,7 @@ main {
 .article-number {
   font-size: 1.75rem;
   font-weight: var(--font-weight-extra-bold);
-  color: var(--color-grayish-blue);
+  color: var(--color-soft-red);
   margin-bottom: 0.25rem;
 }
 
